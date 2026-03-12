@@ -8,9 +8,14 @@ public class Main {
     public static void main(String[] args) throws FileNotFoundException {
 
 
-        String path = ""; //path + name + extension
+        String path = "src/main/resources/names.txt"; //path + name + extension
 
         Scanner sc = new Scanner(new File(path));
+
+        while (sc.hasNextLine()) {
+            System.out.println(sc.nextLine());
+
+        }
 
 
 
