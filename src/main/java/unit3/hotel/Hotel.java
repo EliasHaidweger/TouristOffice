@@ -1,4 +1,4 @@
-package unit3;
+package unit3.hotel;
 
 import lombok.Builder;
 import lombok.Data;
