@@ -1,14 +1,14 @@
 package unit3.hotel;
 
 import java.io.File;
-import java.io.IOException;
+import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
 public class HotelImporter {
 
-    public List<Hotel> loadHotelsFromFile() throws IOException {
+    public List<Hotel> loadHotelsFromFile() throws FileNotFoundException {
         List<Hotel> hotels = new ArrayList<>();
         Scanner scanner = new Scanner(new File("src/main/resources/hotels.txt"));
 
