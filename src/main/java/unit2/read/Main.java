@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) throws FileNotFoundException {
 
 
-        String path = "src/main/resources/hotels.txt"; //path + name + extension
+        String path = "src/main/resources/occupancies.txt"; //path + name + extension
 
         Scanner sc = new Scanner(new File(path));
 

@@ -1,5 +1,5 @@
 id;category;name;owner;contact;address;city;cityCode;phone;noRooms;noBeds
-661; * ; Gasthof Singula ; Strelitzer Daouia ; Gschihay Mateeas ; Hauptstraße 22 ; Payerbach ; 2650 ; 2853103 ;62;40
+661; ** ; Gasthof Singula ; Strelitzer Daouia ; Gschihay Mateeas ; Hauptstraße 22 ; Payerbach ; 2650 ; 2853103 ;62;40
 145; * ; Konditorei Müssauer ; Gröbler Trinity ; Götzfried Himat ; Böhmgasse 19 ; Waidhofen ; 3830 ; 2882571 ;12;15
 55; *** ; Hotel garni Steinfeld ; Niederhametner Kilian-Noel ; Klopstech-Wieter Sakine ; Nikolaus-August-Otto-Straße 4 ; Wiener ; 2700 ; 3563381 ;79;100
 353; * ; Land- und Seminarpension Gamerith ; Tichauer Annamária ; Mowinckel Luta ; Mottingeramt 41 ; Mottingeramt ; 3532 ; 2375369 ;54;131
