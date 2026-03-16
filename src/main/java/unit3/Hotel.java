@@ -11,6 +11,10 @@ public class Hotel {
     int category;
     String name;
     String owner;
+    String contact;
+    String address;
+    String city;
+    int cityCode;
     String phone;
     int noRooms;
     int noBeds;
